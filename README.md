@@ -1,5 +1,6 @@
-# real-data-ab-test
+# A/B test on real data
 An A/B test carried out as part of a recruiment process
+-------------------------------------------------------
 
 This analysis was carried out as part of the recruitment process at one company. The following instructions were given (reworded):
 
